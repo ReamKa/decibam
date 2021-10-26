@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Decibam",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
